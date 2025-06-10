@@ -1,6 +1,6 @@
 {
-    "name": "bookmywod_admin",
-    "short_name": "bookmywod_admin",
+    "name": "bokmywod_admin_app",
+    "short_name": "bokmywod_admin_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
